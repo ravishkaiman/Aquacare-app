@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "457482752709",
+    "project_id": "agrimoe-7b917",
+    "storage_bucket": "agrimoe-7b917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457482752709:android:3941a61c2f2bbbee8c16ac",
+        "android_client_info": {
+          "package_name": "com.agrimoe.mobile.agrimoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATD4dNmRDvnxb4FT0FzNktjuHwvXcLB7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457482752709:android:616b98a914bb7b4a8c16ac",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATD4dNmRDvnxb4FT0FzNktjuHwvXcLB7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

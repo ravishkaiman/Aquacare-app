@@ -1,0 +1,2 @@
+C:/Users/ravis/OneDrive/Desktop/my_app/android/app/.cxx/Debug/392b5y6o/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ravis/OneDrive/Desktop/my_app/android/app/.cxx/Debug/392b5y6o/x86_64/CMakeFiles/rebuild_cache.dir
